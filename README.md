@@ -6,7 +6,7 @@ This project is a comprehensive real estate acquisition and investment analysis 
 - Forecast rental income, operating expenses, and NOI
 - Analyze investment profitability and risk
 - Perform scenario, goal-seek, and sensitivity analysis
-- Evaluate returns using **TVM and benchmark comparisons
+- Evaluate returns using TVM and benchmark comparisons
 
 ## Tools & Techniques
 - Microsoft Excel (Advanced Financial Modeling)
@@ -27,7 +27,7 @@ This project is a comprehensive real estate acquisition and investment analysis 
 
 ### 1 Acquisition & Valuation
 - Defined acquisition assumptions including target cap rate (6.00%)
-- Calculated **purchase price** using the income capitalization formula:
+- Calculated purchase price using the income capitalization formula:
   
   > Property Value = Net Operating Income ÷ Cap Rate
 
